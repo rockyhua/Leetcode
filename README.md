@@ -10,3 +10,5 @@
 * problem #746 Min Cost Climbing Stairs
 * problem #279 Perfect Squares
 * problem #91 Decode ways
+* problem #53 Maximun subarray
+* problem #300 longest increasing subsequence
